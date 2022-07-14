@@ -1,1 +1,1 @@
-Bluetooth Printer SDK Implementation
+Bluetooth Printer SDK Flutter Plugin Implementation
