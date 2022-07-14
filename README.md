@@ -1,2 +1,1 @@
-# bluetooth_printer_sdk
-Bluetooth Printer SDK
+Bluetooth Printer SDK Implementation
